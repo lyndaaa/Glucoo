@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyGluco</string>
+    <string name="menu_msg">Ma Glycémie</string>
+    <string name="profil_msg">Profil</string>
+    <string name="profil_Nom">Nom</string>
+    <string name="profil_prénom">Prénom</string>
+    <string name="profil_age">Age</string>
+    <string name="profil_sexe">Sexe</string>
+    <string name="profil_poids">Poids</string>
+    <string name="Profil_DT">Diabéte Type</string>
+    <string name="sexe_M">M</string>
+    <string name="sexe_F">F</string>
+    <string name="save">save</string>
+    <string name="Notes">Notes</string>
+    <string name="Diagramme">Diagramme</string>
+    <string name="partage">Partage</string>
+    <string name="alarme">Alarme</string>
+    <string name="carnet_gly">Carnet Glycémique</string>
+    <string name="title_activity_alarme_clock">AlarmeClock</string>
+    <string name="Set_alarm">Turn on Alarm</string>
+    <string name="turn_off_alarm">Turn off Alarm</string>
+    <string name="question">Did you set the alarm?</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="action_settings">action_settings</string>
+
+</resources>

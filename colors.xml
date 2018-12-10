@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="Dark">#000000</color>
+    <color name="Rouge_Grenat">#A44061</color>
+    <color name="colorPoints">#D150B3</color>
+    <color name="Yallow">#E2E21A</color>
+    <color name="JO">#E2B31A</color>
+    <color name="Blue">#1A2EE2</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>
